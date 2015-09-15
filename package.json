@@ -1,0 +1,36 @@
+{
+  "name": "espoc",
+  "version": "1.0.0",
+  "description": "es6 boilerplate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennekrouf/es6boilerplate.git"
+  },
+  "keywords": [
+    "es6"
+  ],
+  "author": "bennekrouf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bennekrouf/es6boilerplate/issues"
+  },
+  "homepage": "https://github.com/bennekrouf/es6boilerplate#readme",
+  "dependencies": {
+    "babelify": "^6.3.0",
+    "browserify": "^11.1.0",
+    "connect": "^3.4.0",
+    "fs": "0.0.2",
+    "gulp": "^3.9.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-util": "^3.0.6",
+    "serve-static": "^1.10.0",
+    "through2": "^2.0.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "vinyl-transform": "^1.0.0"
+  }
+}
